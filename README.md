@@ -28,7 +28,7 @@ Impute Missing values,handle ouliers,removing duplicates values.
 Perform feature selection using correlation and tried to know which feature is impacting much to my target variable.
 
 ## Model selection :
-used various machine learning algorithms(Logistic regression,Decision tree,Random forest,XGBoost) and tried to know which best suite on my dataset.
+used various machine learning algorithms(Logistic Regression ,Decision tree,Random forest,XGBoost) and tried to know which best suite on my dataset.
 
 ## Model Building: 
 **here the main aim was somehow i wanted to reduce Type-2 error or False Negative so i have selected Decision Tree which was able to do it in my case.**

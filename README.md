@@ -34,7 +34,7 @@ used various machine learning algorithms(Logistic regression,Decision tree,Rando
 **here the main aim was somehow i wanted to reduce Type-2 error or False Negative so i have selected Decision Tree which was able to do it in my case.**
 
 ## Model Tuning :
-perform hyperparameter tuning on Decision tree and achieved accuracy 96.4%.
+perform hyperparameter tuning on Decision tree and achieved accuracy 93.2%.
 
 ## Model Tesing :
 perform model testing on unseen data.
